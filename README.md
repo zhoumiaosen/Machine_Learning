@@ -22,8 +22,6 @@ Machine_Learning/
 - tensorflow
 - keras
 - pandas
-- joblib (optional, for saving and loading scalers)
-- Jupyter Notebook (optional, for data exploration)
 
 You can install the necessary packages using the following command:
 
